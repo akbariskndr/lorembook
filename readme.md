@@ -1,5 +1,5 @@
 # Lorembook
-## Simple Social Media
+Simple Social Media for PSP Laravel
 
 
 ### Instalasi
