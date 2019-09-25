@@ -8,7 +8,8 @@
             <h4>Daftar Akun</h4>
           </div>
           <div class="card-body">
-            <form action="" method="POST">
+            <form action="{{ url('/registration') }}" method="POST">
+              @csrf
               <div class="form-group">
                 <label for="email">Email</label>
                 <input type="text" name="email" id="email" class="form-control">
