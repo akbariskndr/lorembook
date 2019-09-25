@@ -25,7 +25,7 @@
                 <label for="email">Name</label>
                 <input type="text" name="name" id="name" class="form-control">
               </div>
-              <button class="btn btn-block btn-primary">Masuk</button>
+              <button class="btn btn-block btn-primary">Daftar</button>
             </form>
           </div>
         </div>
