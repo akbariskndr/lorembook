@@ -1,4 +1,6 @@
 # Lorembook
+## Simple Social Media
+
 
 ### Instalasi
 1. Download dan install xampp versi terbaru disini https://www.apachefriends.org/index.html
